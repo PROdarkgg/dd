@@ -1,6 +1,6 @@
-token= هنا حق التوكين حق بوتك
-owner= هنا حط الايدي حقك 
-prefix= هنا البرفكس حق بوتك
-game= هنا حط الكلام الي يجي في البلاينج
-stayinchannel=true هنا اذا تبيه يقعد في الروم ما يطلع خليه زي ما هو اذا ما تبيه خليه false
-songinstatus=false هنا اذا تبيه يكتب اسم الاغنية الي مشغلها البوت في البلايمج حقه اذا تبيها خليها true
+token= NTk4MDExMjk0MDMzMTE3MTg0.XSWMCg.nreNsi8t71HMOx9zIwKOofK6TaU
+owner= 241554153023864832 
+prefix= s!
+game= special music | by dark_sy4
+stayinchannel=false
+songinstatus=true
