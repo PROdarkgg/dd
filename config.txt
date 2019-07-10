@@ -1,6 +1,6 @@
 token= NTk4MDExMjk0MDMzMTE3MTg0.XSWMCg.nreNsi8t71HMOx9zIwKOofK6TaU
 owner= 241554153023864832 
-prefix= s!
+prefix= s
 game= special music | by dark_sy4
 stayinchannel=false
 songinstatus=true
